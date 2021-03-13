@@ -47,6 +47,6 @@ Features of the Management System:
   
 #######################################################################################
 For any Queries:
-Instagram  : intracoder
+Instagram  : www.instagram.com/intracoder
 Mail       : intracoder569@gmail.com 
 #######################################################################################
