@@ -1,0 +1,4 @@
+####### Required Libraries for the Application #######
+mysql-connector-python
+docx
+tk
