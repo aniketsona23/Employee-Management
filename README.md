@@ -1,7 +1,5 @@
 # Employee-Management
 
-#######################################################################################
-
 A GUI Employee Record Management Application
 Technologies Used : 
   1. Python
@@ -13,7 +11,6 @@ Python Modules Used:
   2. Tkinter Library (pre-installed)
   3. mysql.connector (pip install mysql
 
-#######################################################################################
 
 To install above modules in one go write this command in Command Prompt:
 pip install -r requirements.txt
@@ -26,7 +23,6 @@ You just have to enter your sql password in the connect statement in "database_m
 Make Sure you have installed Python connector in MySQL setup.
 Make Sure to install All the modules mentioned above.
 
-#######################################################################################
 
 About Employee Management System :-
 
@@ -45,8 +41,8 @@ Features of the Management System:
   4. Produce PaySlip For Employee
   5. Strong Login System
   
-#######################################################################################
+
 For any Queries:
 Instagram  : www.instagram.com/intracoder
 Mail       : intracoder569@gmail.com 
-#######################################################################################
+
