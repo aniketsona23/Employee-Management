@@ -9,7 +9,7 @@ Technologies Used :
 Python Modules Used:
   1. Docx module (pip install docx)
   2. Tkinter Library (pre-installed)
-  3. mysql.connector (pip install mysql
+  3. mysql.connector (pip install mysql)
 
 
 To install above modules in one go write this command in Command Prompt:
